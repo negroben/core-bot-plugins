@@ -1,4 +1,4 @@
-# V3.0 - Metodología Unificada + Estilos Premium Restaurados + Botón MENU
+# V3.0 - Metodología Unificada + Estilos Premium Restaurados + Botón MENU para que vuelva al menu del plugin
 import requests
 import html
 import shlex
